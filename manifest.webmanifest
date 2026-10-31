@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Galaxie Attack",
+  "short_name": "Galaxie Attack",
+  "description": "Jeu d'arcade spatial",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07070b",
+  "theme_color": "#07070b",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
