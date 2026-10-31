@@ -1,0 +1,17 @@
+GALAXIE ATTACK — VERSION PWA
+
+Contenu du ZIP :
+- index.html : ton jeu original, avec les éléments nécessaires à la PWA ajoutés.
+- manifest.webmanifest : nom et paramètres d'installation de l'application.
+- sw.js : cache de l'application pour permettre une ouverture hors connexion après le premier chargement.
+- icon.svg : icône de l'application.
+
+PUBLICATION
+1. Décompresse le ZIP.
+2. Envoie les quatre fichiers ensemble sur ton hébergement, à la racine du site.
+3. Le site doit être servi en HTTPS.
+4. Ouvre l'adresse du site dans Safari sur iPhone.
+5. Appuie sur Partager, puis « Sur l'écran d'accueil ».
+
+IMPORTANT
+Le ZIP est vérifié et contient les fichiers attendus. L'installation PWA nécessite un hébergement HTTPS qui accepte les fichiers statiques et les service workers. Cette archive ne crée pas elle-même un référentiel sur WeeJur.
